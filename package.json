@@ -1,7 +1,7 @@
 {
   "name": "crimasi.com",
   "title": "crimasi.com",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": true,
   "author": {
     "name": "Crimasi",
@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "extend": "~1.2.1",
+    "decompress": "~0.2.3",
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-connect": "0.7.1",
