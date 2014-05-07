@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+tmp/
+temp/
+test/
+public/
+secret.json
+*.tmp
+*.log

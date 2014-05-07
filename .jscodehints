@@ -1,0 +1,6 @@
+{
+     "excluded-directories" : ["bower_components", "node_modules", "fonts", "public", "test", "images", "tmp"],
+     "excluded-files" : ["require.js", "jquery*.js", "/lib-1.[12].js/"],
+     "max-file-count": 100,
+     "max-file-size": 524288
+}

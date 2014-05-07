@@ -1,0 +1,262 @@
+{
+	"rapier": {
+		"name": "Rapier",
+		"type": "Sword",
+		"description": ""
+	},
+	"longsword": {
+		"name": "Long Sword",
+		"type": "Sword",
+		"description": ""
+	},
+	"shortsword": {
+		"name": "Short Sword",
+		"type": "Sword",
+		"description": ""
+	},
+	"mace": {
+		"name": "Mace",
+		"type": "Club",
+		"description": ""
+	},
+	"greataxe": {
+		"name": "Great Axe",
+		"type": "Axe",
+		"description": ""
+	},
+	"battleaxe": {
+		"name": "Battle Axe",
+		"type": "Axe",
+		"description": ""
+	},
+	"handaxe": {
+		"name": "Hand Axe",
+		"type": "Axe",
+		"description": ""
+	},
+	"dagger": {
+		"name": "Dagger",
+		"type": "Dagger",
+		"description": ""
+	},
+	"throwingknife": {
+		"name": "Throwing Knife",
+		"type": "Thrown",
+		"description": ""
+	},
+	"longknife": {
+		"name": "Long Knife",
+		"type": "Dagger",
+		"description": ""
+	},
+	"warcleaver": {
+		"name": "War Cleaver",
+		"type": "Sword",
+		"description": ""
+	},
+	"scimitar": {
+		"name": "Scimitar",
+		"type": "Sword",
+		"description": ""
+	},
+	"warpick": {
+		"name": "War-Pick",
+		"type": "Axe",
+		"description": ""
+	},
+	"sabre": {
+		"name": "Sabre",
+		"type": "Sword",
+		"description": ""
+	},
+	"epee": {
+		"name": "Épée",
+		"type": "Sword",
+		"description": ""
+	},
+	"curvedlongsword": {
+		"name": "Curved Longsword",
+		"type": "Sword",
+		"description": ""
+	},
+	"curvedshortsword": {
+		"name": "Curved Shortsword",
+		"type": "Sword",
+		"description": ""
+	},
+	"greatsword": {
+		"name": "Greatsword",
+		"type": "Sword",
+		"description": ""
+	},
+	"curvedgreatsword": {
+		"name": "Curved Greatsword",
+		"type": "Sword",
+		"description": ""
+	},
+	"armingsword": {
+		"name": "Arming Sword",
+		"type": "Sword",
+		"description": ""
+	},
+	"falchion": {
+		"name": "Falchion",
+		"type": "Sword",
+		"description": ""
+	},
+	"flail": {
+		"name": "Flail",
+		"type": "Club",
+		"description": ""
+	},
+	"rapier": {
+		"name": "Rapier",
+		"type": "Sword",
+		"description": ""
+	},
+	"longbow": {
+		"name": "Longbow",
+		"type": "Bow",
+		"description": ""
+	},
+	"shortbow": {
+		"name": "Shortbow",
+		"type": "Bow",
+		"description": ""
+	},
+	"recurvebow": {
+		"name": "Recurve Bow",
+		"type": "Bow",
+		"description": ""
+	},
+	"javelin": {
+		"name": "Javelin",
+		"type": "Thrown",
+		"description": ""
+	},
+	"longspear": {
+		"name": "Long Spear",
+		"type": "Polearm",
+		"description": ""
+	},
+	"shortspear": {
+		"name": "Short Spear",
+		"type": "Polearm",
+		"description": ""
+	},
+	"halberd": {
+		"name": "Halberd",
+		"type": "Polearm",
+		"description": ""
+	},
+	"glaive": {
+		"name": "Glaive",
+		"type": "Polearm",
+		"description": ""
+	},
+	"shuriken": {
+		"name": "Shuriken",
+		"type": "Thrown",
+		"description": ""
+	},
+	"shortstaff": {
+		"name": "Short Staff",
+		"type": "Polearm",
+		"description": ""
+	},
+	"wand": {
+		"name": "Wand",
+		"type": "Magical",
+		"description": ""
+	},
+	"wristblade": {
+		"name": "Wrist Blade",
+		"type": "Dagger",
+		"description": ""
+	},
+	"crystalstaff": {
+		"name": "Crystal Staff",
+		"type": "Magical",
+		"description": ""
+	},
+	"cudgel": {
+		"name": "Cudgel",
+		"type": "Club",
+		"description": ""
+	},
+	"fatbomb": {
+		"name": "Dat Bomb",
+		"type": "Bomb",
+		"description": ""
+	},
+	"whip": {
+		"name": "Single-Tail Whip",
+		"type": "Whip",
+		"description": ""
+	},
+	"bastardsword": {
+		"name": "Bastard Sword",
+		"type": "Sword",
+		"description": ""
+	},
+	"singleedgedshortsword": {
+		"name": "Single-edged Short Sword ",
+		"type": "Sword",
+		"description": ""
+	},
+	"handscythe": {
+		"name": "Hand Scythe",
+		"type": "Polearm",
+		"description": ""
+	},
+	"greatscythe": {
+		"name": "Great Scythe",
+		"type": "Polearm",
+		"description": ""
+	},
+	"gardenscythe": {
+		"name": "Garden Scythe",
+		"type": "Polearm",
+		"description": ""
+	},
+	"greatmace": {
+		"name": "Great Mace",
+		"type": "Club",
+		"description": ""
+	},
+	"shortspike": {
+		"name": "Short Spike",
+		"type": "Dagger",
+		"description": ""
+	},
+	"smallshield": {
+		"name": "Small Shield",
+		"type": "Shield",
+		"description": ""
+	},
+	"greatshield": {
+		"name": "Great Shield",
+		"type": "Shield",
+		"description": ""
+	},
+	"roundshield": {
+		"name": "Round Shield",
+		"type": "Shield",
+		"description": ""
+	},
+	"squareshield": {
+		"name": "Square Shield",
+		"type": "Shield",
+		"description": ""
+	},
+	"1hwarhammer": {
+		"name": "1H War Hammer",
+		"type": "Club",
+		"description": ""
+	},
+	"2hwarhammer": {
+		"name": "2H War Hammer",
+		"type": "Club",
+		"description": ""
+	}
+}
